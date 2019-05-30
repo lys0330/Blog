@@ -1,4 +1,3 @@
-// this is a test File.
-<script>
-    //nothing anymore.
-</script>
+function add(arg) {
+    console.log(arg);
+}
